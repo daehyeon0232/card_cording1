@@ -1,0 +1,7 @@
+*{padding: 0; margin: auto; font-family: 'Open Sans', sans-serif; font-weight: 300;}
+a:link, a:active, a:visited, a:hover{text-decoration: none;}
+		a:link, a:active, a:visited{color: white;}
+
+		h2{font-weight: 800; font-size: 2.4em;}
+		h4{font-family: 'Nanum Gothic', sans-serif; line-height: 1.8em;}
+		h3{font-family: 'Nanum Gothic', sans-serif;  font-size: 1.3em; font-weight: 800;}
